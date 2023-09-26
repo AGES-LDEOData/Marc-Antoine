@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 87.95881031077735,
+        "error": 152.50799702859587,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Linear_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -101,7 +101,7 @@
             }
         ],
         "reviewed": true,
-        "value": 591.7907417924281
+        "value": 186.68155494275013
     },
     "Ar37": {
         "error": 4.1696783666790444e-08,
@@ -208,9 +208,9 @@
         "value": 1.7633070425804894e-07
     },
     "Ar38": {
-        "error": 2.6593258641032755e-07,
+        "error": 8.873141202696486e-08,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Exponential_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -309,7 +309,7 @@
             }
         ],
         "reviewed": true,
-        "value": 3.671047077120237e-06
+        "value": 2.8437269813189184e-06
     },
     "Ar39": {
         "error": 7.536795031228668e-08,
@@ -416,9 +416,9 @@
         "value": 7.875525957321628e-07
     },
     "Ar40": {
-        "error": 0.0004631688590528305,
+        "error": 0.00012152718429308617,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Exponential_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -517,6 +517,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0030804327303269366
+        "value": 0.0016549620739918947
     }
 }
